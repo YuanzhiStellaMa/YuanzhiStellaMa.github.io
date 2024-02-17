@@ -30,7 +30,7 @@ author:
   email            : "ym3092@nyu.edu" 
 
   # Academic websites
-  arxiv            : "https://yuanzhistellama.github.io"
+  arxiv            : # "https://yuanzhistellama.github.io"
   googlescholar    : #...
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
@@ -46,7 +46,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : "Stella Ma"
   flickr           : # Username
   foursquare       : # Username
@@ -55,7 +55,7 @@ author:
   keybase          : # Username
   instagram        : "stellayuanzhima"
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/stella-ma-83b887201/"
+  linkedin         : "https://www.linkedin.com/in/yuanzhi-stella-ma"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
