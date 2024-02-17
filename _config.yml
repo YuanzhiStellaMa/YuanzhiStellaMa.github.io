@@ -20,7 +20,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile02172024.png"
+  avatar           : "profile0217024.png"
   name             : "Yuanzhi (Stella) Ma"
   pronouns         : "she/her"  
   bio              : "Exploring Quantitative Economics and Econometrics with Python & R"
