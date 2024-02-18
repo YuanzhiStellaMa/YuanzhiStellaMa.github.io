@@ -16,7 +16,7 @@ You can find my CV here: [Yuanzhi (Stella) Ma's Curriculum Vitae](../assets/Curr
 Email: [ym3092@nyu.edu](mailto:ym3092@nyu.edu) / Github: [https://github.com/YuanzhiStellaMa](https://github.com/YuanzhiStellaMa) / Wechat: myz_goforth
 
 
-To be continued...
+To be continued
 ======
-1. To be continued...
+...
 
