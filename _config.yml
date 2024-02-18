@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : Yuanzhi (Stella) Ma
 description              : M.A. in Economics candidate @ NYU exploring Econometrics with Python & R
 url                      : https://yuanzhistellama.github.io
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : "YuanzhiStellaMa/YuanzhiStellaMa.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
