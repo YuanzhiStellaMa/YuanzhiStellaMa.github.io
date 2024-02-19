@@ -1,7 +1,7 @@
 ---
 title: 'Adv Micro - Problems & Solutions 1: Consumer Choice'
 date: 2024-02-18
-permalink: /posts/2024-02-18-AdvMicro-PS-1
+permalink: /posts/2012/08/blog-post-5/
 tags:
   - Advanced Microeconomics
   - Economics Notes
