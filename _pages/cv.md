@@ -11,30 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in English Language and Literature, B.E. in Finance, Central University of Finance and Economics, 2023
+* M.A. in Economics, New York University, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2024: Research Assistant (Corporate Finance)
+  * Stern School of Business, New York University
+  * Duties included: Regression Analysis, Data Preprocessing, Literature Review
+  * Supervisor: Professor Shan Ge
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Summer 2022: Research Assistant (Corporate Finance)
+  * School of Finance, Central University of Finance and Economics
+  * Duties included: Regression Analysis, Data Preprocessing, Academic Translation and Modification
+  * Supervisor: Professor Yuchao Peng
+ 
+* Summer 2021: Investment Analyst Intern (Corporate Banking)
+  * Beijing Office, SPD Silicon Valley Bank
+  * Duties included: Credit Analysis, Financial Modeling, Industry Research
+  * Supervisor: Ms. Vivian An, Director
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Stata: Fixed Effects Regression Analysis, Big Data Processing with HPC
+* Python
+  * Pandas
+  * Numpy
+  * Seaborn
+* R: Bayesian Inference
 
 Publications
 ======
@@ -56,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Chair of Student Union, School of Foreign Studies, Central University of Finance and Economics
