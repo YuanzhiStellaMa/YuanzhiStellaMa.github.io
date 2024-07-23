@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Stella Ma 马元芷
+Yuanzhi (Stella) Ma
 ======
-I'm a second-year Master candidate in Economics from [Graduate School of Arts and Science](https://gsas.nyu.edu/), [New York University](https://www.nyu.edu/). My research interest includes corporate finance and applied econometrics.
+I am a second-year Master candidate in Economics from [Graduate School of Arts and Science](https://gsas.nyu.edu/), [New York University](https://www.nyu.edu/). My research interest includes corporate finance and applied econometrics.
 
 I am very fortunate to be advised by [Prof. Shan Ge](https://www.shan-ge.com/) at [Stern School of Business, New York University](https://www.stern.nyu.edu/). I was advised by [Prof. Yuchao Peng](https://sf.cufe.edu.cn/info/1112/13539.htm) from [School of Finance](https://sf.cufe.edu.cn/), [Central University of Finance and Economics](https://www.cufe.edu.cn/index.htm).
 
