@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Stella Ma
+Stella Ma 马元芷
 ======
 I'm a second-year Master candidate in Economics from [Graduate School of Arts and Science](https://gsas.nyu.edu/), [New York University](https://www.nyu.edu/). My research interest includes corporate finance and applied econometrics.
 
